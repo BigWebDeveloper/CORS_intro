@@ -1,0 +1,9 @@
+Getting started with cors.
+1. set up your node.js project.
+
+npm init -y
+npm install express cors
+
+2. create a new file called server.js
+
+3. Test the CORS configuration by creating an index.html
